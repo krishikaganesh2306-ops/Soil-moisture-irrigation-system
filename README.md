@@ -6,4 +6,5 @@ The system continuously monitors the soil's moisture level using a sensor connec
 ![Circuit Diagram](./Circuit%20Diagram.png)
 
 # Components used
+[Components Used](./Components.md)
 
