@@ -18,21 +18,21 @@ It alerts users with a buzzer and LED while displaying live data on an LCD scree
 ![Circuit Diagram](./Circuit%20Diagram.png)
 
 # Working Explanation
-The soil moisture sensor reads the soil water level (via ADC).
-Arduino processes the value:
-If soil is dry → buzzer & LED alert, irrigation turns ON.
-If soil is wet → irrigation stays OFF.
-The LCD shows soil condition and pump status.
-Timer interrupts ensure periodic monitoring without continuous polling.
+- The soil moisture sensor reads the soil water level (via ADC).
+- Arduino processes the value:
+  - If soil is dry → buzzer & LED alert, irrigation turns ON.
+  - If soil is wet → irrigation stays OFF.
+- The LCD shows soil condition and pump status.
+- Timer interrupts ensure periodic monitoring without continuous polling.
 
 # Applications
-1.Smart farming and agriculture 🌾
-2.Home gardening automation 🌱
-3.Water conservation systems 💧
+- Smart farming and agriculture 🌾
+- Home gardening automation 🌱
+- Water conservation systems 💧
 
 # Future Improvements
-1.Adding IoT (ESP8266/ESP32) for remote monitoring
-2.Mobile app integration for control
-3.Solar-powered system for sustainability
+- Adding IoT (ESP8266/ESP32) for remote monitoring
+- Mobile app integration for control
+- Solar-powered system for sustainability
 
 
