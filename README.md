@@ -13,7 +13,7 @@ It alerts users with a buzzer and LED while displaying live data on an LCD scree
 - Potentiometers (for LCD contrast & sensor calibration)  
 - Resistors & jumper wires  
 - Breadboard
-- 
+  
 # Circuit diagram
 ![Circuit Diagram](./Circuit%20Diagram.png)
 
