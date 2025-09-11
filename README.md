@@ -26,7 +26,7 @@ It alerts users with a buzzer and LED while displaying live data on an LCD scree
 - Timer interrupts ensure periodic monitoring without continuous polling.
 # Live Simulation
 You can view and run the simulation on TinkerCAD:  
-[click here to view project]()
+[click here to view project](https://www.tinkercad.com/things/7GGDe4GLiUw-soil-moisture-irrigation-system)
 
 # Applications
 - Smart farming and agriculture 
